@@ -17,7 +17,7 @@ Once you have a C compiler installed, follow these steps to install and run the 
        
 2. Navigate to the project directory using the following command:
 
-      =>cd [project-name]
+       =>cd [project-name]
       
 3. Compile the project using the following command:
 
