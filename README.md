@@ -1,10 +1,10 @@
 # sorting_algos_static_library
 # description
-[This project is a collection of sorting algorithms implemented in C. It includes various popular sorting algorithms such as bubble sort, insertion sort, and merge sort. The main objective of the project is to compare the performance of different sorting algorithms for different input sizes.
+This project is a collection of sorting algorithms implemented in C. It includes various popular sorting algorithms such as bubble sort, insertion sort, and merge sort. The main objective of the project is to compare the performance of different sorting algorithms for different input sizes.
 
 The project uses a static library to implement the sorting algorithms, making it easy to use and integrate into other projects. The user can run the project with different input sizes and observe the time taken by each sorting algorithm to perform.
 
-This project is ideal for anyone who wants to learn about sorting algorithms and compare their performance for different input sizes. It can also be used as a reference implementation for integrating sorting algorithms into other projects.]
+This project is ideal for anyone who wants to learn about sorting algorithms and compare their performance for different input sizes. It can also be used as a reference implementation for integrating sorting algorithms into other projects.
 
 # Installation
 To use this project, you will need to have a C compiler installed on your system. If you don't have one installed, you can download and install GCC for your operating system.
