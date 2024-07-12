@@ -13,7 +13,7 @@ Once you have a C compiler installed, follow these steps to install and run the 
 
 1. Clone the repository to your local machine using the following command:
 
-       => git clone https://github.com/Animeshsharma4/[project-name].git
+       => git clone https://github.com/Animeshsharma4/sorting_algos_static_library.git
        
 2. Navigate to the project directory using the following command:
 
